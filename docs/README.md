@@ -8,3 +8,5 @@
 - Circle: P = 2πR
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
+## Author
+This repository was modified by Michael Serpukhov as part of a Git lab assignment.
